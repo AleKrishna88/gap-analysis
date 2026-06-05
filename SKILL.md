@@ -37,7 +37,7 @@ domande.
 
 Esegui una ricerca WebSearch con la keyword target per ottenere i risultati organici.
 
-**Obiettivo**: raccogliere i top 8-10 URL organici. Escludi: YouTube, Wikipedia, Reddit,
+**Obiettivo**: raccogliere i top 10 URL organici. Escludi: YouTube, Wikipedia, Reddit,
 Amazon, e-commerce puri, siti istituzionali (.gov/.edu) a meno che siano rilevanti per il topic.
 
 Costruisci una lista ordinata per posizione in SERP con URL e titolo di ogni risultato.
@@ -46,7 +46,7 @@ Costruisci una lista ordinata per posizione in SERP con URL e titolo di ogni ris
 
 ## FASE 3 — Estrazione Contenuto Competitor
 
-Per ogni URL competitor (processa i top 5-7), usa `mcp__workspace__web_fetch` per scaricare
+Per ogni URL competitor (processa i top 10), usa `mcp__workspace__web_fetch` per scaricare
 il contenuto della pagina.
 
 Per ogni pagina, estrai e annota:
